@@ -1,4 +1,4 @@
-# Dependencies
+# Ignore dependencies
 node_modules/
 
 # Cache files
@@ -7,3 +7,7 @@ node_modules/
 # Build output
 build/
 dist/
+
+# Misc
+.DS_Store
+
